@@ -1,4 +1,4 @@
-<h1>Olá Sou Pedro Rodrigues</h1>
+<h1>Hello I'm Pedro Rodrigues</h1>
 
 <div>
   <a href="https://github.com/Spinnyz">
