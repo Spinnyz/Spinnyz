@@ -1,9 +1,10 @@
-<h1 style="text-align: center;">Hello, I'm Pedro Rodrigues</h1>
+<h1 align="center">Hello, I'm Pedro Rodrigues</h1>
 
 <div align="center">
   <a href="https://github.com/Spinnyz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spinnyz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spinnyz&layout=compact&langs_count=8&theme=tokyonight"/>
+    <!-- Estatísticas com commits totais, branch correta, privados e cache zerado -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spinnyz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=0"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spinnyz&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=0"/>
   </a>
 </div>
 
@@ -36,4 +37,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
