@@ -1,34 +1,49 @@
-<h1 align="center">Hello, I'm Pedro Rodrigues</h1>
-
 <div align="center">
-  <a href="https://github.com/Spinnyz">
-    <!-- Estatísticas do GitHub -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spinnyz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=0"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spinnyz&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=0"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Pedro+Rodrigues;Desenvolvedor+Python+%26+Web;Apaixonado+por+Tecnologia" alt="Typing SVG" />
   </a>
 </div>
-
----
-
-<h3 align="center">🧠 My Programming Languages</h3>
-
-<div align="center">
-  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
----
-
-<h3 align="center">🌐 My Social Networks</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/ped_rluca/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <!-- Discord link removido, adicione seu link real -->
   <a href="mailto:pedrolucasgonzaga31@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://github.com/Spinnyz">
+     <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
 </div>
+
+---
+
+### 👨‍💻 Sobre Mim
+
+16-year-old Computer Science student focused on Programming and Software Development. Specializing in innovative projects and emerging technologies, with interests in Quantum Computing, Machine Learning, and continuous improvement of technical skills.
+---
+
+### 🚀 Tech Stack
+
+<div align="center">
+  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+</div>
+
+<br/>
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/Spinnyz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Spinnyz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="160" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spinnyz&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="160" />
+  </a>
+</div>
+
+<br/>
+
+<div
