@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Pedro+Rodrigues;Desenvolvedor+Python+%26+Web;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Pedro+Rodrigues;Python+%26+Web+Developer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,9 +18,10 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
 16-year-old Computer Science student focused on Programming and Software Development. Specializing in innovative projects and emerging technologies, with interests in Quantum Computing, Machine Learning, and continuous improvement of technical skills.
+
 ---
 
 ### 🚀 Tech Stack
@@ -29,21 +30,4 @@
   <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
   <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
   <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-</div>
-
-<br/>
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/Spinnyz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Spinnyz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="160" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spinnyz&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="160" />
-  </a>
-</div>
-
-<br/>
-
-<div
+  <img align="center" alt="Python" height
