@@ -41,34 +41,12 @@ Computer Science student focused on programming and software development. I like
 
 ---
 
-## 📌 Featured Projects
-
-<!-- Troque pelos seus projetos reais -->
-
-| Project | Description | Stack |
-|---|---|---|
-| [**project-name**](https://github.com/Spinnyz/project-name) | One line explaining what it does | Python |
-| [**project-name**](https://github.com/Spinnyz/project-name) | One line explaining what it does | HTML, CSS |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Spinnyz">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Spinnyz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/Spinnyz">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spinnyz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spinnyz&theme=tokyonight" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spinnyz&theme=tokyonight" alt="Repos per language" />
 </div>
-
----
-
-<div align="center">
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3366CC,100:0A0F2C&height=100&section=footer" alt="Footer" />
-</div>
