@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3366CC,100:0A0F2C&height=200&section=header&text=Pedro%20Lucas&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Python%20%7C%20Web%20%7C%20Software%20Development&descAlignY=58&descSize=16" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3366CC,100:0A0F2C&height=200&section=header&text=Pedro%20Rodrigues&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Python%20%7C%20Web%20%7C%20Software%20Development&descAlignY=58&descSize=16" alt="Pedro Rodrigues" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Developer;Computer+Science+Student;Always+learning+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=600&lines=Pedro+Rodrigues;Python+Developer;Web+Developer;Computer+Science+Student;Always+learning+something+new" alt="Typing SVG" />
 
 <br/>
 
@@ -62,6 +62,10 @@ Computer Science student focused on programming and software development. I like
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spinnyz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
   </a>
 </div>
+
+---
+
+<div align="center">
 
 ---
 
